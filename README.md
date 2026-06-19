@@ -63,10 +63,7 @@ cd discord-notification-tool
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Copy the example config
-cp config.json.example config.json
-
-# 4. Run
+# 3. Run
 python main.py
 ```
 
