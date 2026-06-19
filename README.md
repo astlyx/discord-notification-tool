@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="bannereng.png" alt="bildirim aracı banner" width="1080">
+</p>
+
 # 🔔 Discord Notification Tool
 
 > We read the chat so you can touch grass.
